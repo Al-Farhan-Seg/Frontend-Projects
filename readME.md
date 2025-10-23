@@ -6,4 +6,9 @@
 
 ### Each project folder contains a <mark>readme.MD</mark> file that gives more information about the given <mark>FRONTEND PROJECT</mark>
 
+### Sources:
+<ul>
+  <li><a href = "https://roadmap.sh/projects/single-page-cv">Single Page CV</a></li>
+</ul>
+
 
